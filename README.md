@@ -11,11 +11,13 @@ This is a simple Flutter app that demonstrates a basic Login and Sign Up UI.
 
 ## 📷 Screenshots
 
-### 🔐 Login Page
-![Login Page](assets/screenshots/screen2.jpg.png)
+## 📷 Screenshots
 
-### 📝 Sign Up Page
-![Sign Up Page](assets/screenshots/screen1.jpg.png)
+### 🔐 Login Page  
+![Login Page](assets/screenshots/screen2.jpg)
+
+### 📝 Sign Up Page  
+![Sign Up Page](assets/screenshots/screen1.jpg)
 
 📁 Folder Structure
 main.dart – App entry point
