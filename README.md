@@ -11,18 +11,11 @@ This is a simple Flutter app that demonstrates a basic Login and Sign Up UI.
 
 ## 📷 Screenshots
 
-(You can add screenshots here later)
+### 🔐 Login Page
+![Login Page](assets/screenshots/screen2.jpg.png)
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/marwa-mohamed1/flutter1.git
-cd flutter1
-flutter pub get
-flutter run
-
+### 📝 Sign Up Page
+![Sign Up Page](assets/screenshots/screen1.jpg.png)
 
 📁 Folder Structure
 main.dart – App entry point
