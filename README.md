@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# flutter_iti
+# Flutter Login UI
 
-A new Flutter project.
+This is a simple Flutter app that demonstrates a basic Login and Sign Up UI.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🟣 Clean login screen with modern design
+- 🔒 Password & Confirm Password fields
+- 🔁 Navigation between Login and Sign Up pages
+- 🎨 Custom colors, icons, rounded fields
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+(You can add screenshots here later)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter
->>>>>>> 98a00599d4a1be8192f033f235c35ace995348a1
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/marwa-mohamed1/flutter1.git
+cd flutter1
+flutter pub get
+flutter run
+
+
+📁 Folder Structure
+main.dart – App entry point
+
+login.dart – Login screen
+
+signup.dart – Sign up screen
+
+🛠️ Tools Used
+Flutter
+
+Dart
+
+Material Design
+
